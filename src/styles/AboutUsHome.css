@@ -1,0 +1,52 @@
+.AboutUsHomeCont{
+    width: 100%;
+    height: 600px;
+    background-color: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    padding: 30px;
+    box-sizing: border-box;
+    color: black;
+    padding-bottom:20px ;
+}
+.TitleOfAbHome{
+    text-align: center;
+    color: rgb(1, 42, 74);
+    font-weight:700;
+    font-size: 20px;
+}
+.DescOfAbHome{
+    color: rgb(75, 85, 99);
+    font-size: 14px;
+    text-align: end;
+    line-height: 25px;
+    
+}
+.buttonunderAboutHome{
+    width: 120px;
+    height: 40px;
+    align-self: end;
+    border-radius: 25px;
+    background-color: rgb(1, 42, 74);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+
+}
+.buttonunderAboutHome:hover{
+    cursor: pointer;
+    transform: scale(1.1);
+    opacity: 0.9;
+}
+.TeamPhoto{
+    width: 100%;
+    height: 60%;
+    margin-top: 10px;
+    position: relative;
+    bottom: 0;
+    background-color: #CCCCCC;
+    border-radius: 20px;
+    box-shadow:1px 1px 10px 1px #0000 ;
+}
