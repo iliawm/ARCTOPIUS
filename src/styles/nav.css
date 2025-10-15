@@ -37,7 +37,7 @@
   width: fit-content;
   height: 100%;
   background-size: contain;
-  background-image: url("asclepiuslogo.png");
+  background-image: url("/asclepiuslogo.png");
   background-repeat: no-repeat;
   background-position: center;
 
